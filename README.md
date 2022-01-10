@@ -1,6 +1,6 @@
 # Marriage Mal Calculator
 
-Marriage Mal Calculator is a super simple app I made in order for people to quickly be able to calculate the results of a game of [Marriage](<https://en.wikipedia.org/wiki/Marriage_(card_game)>). There is no backend required for this—it's purely frontend. I was also bored while recovering from Covid. Also, I used React Native expo to create and share this, because I don't want to pay the \$99 to share through TestFlight 🤷🏽
+Marriage Mal Calculator is a super simple app I made in order for people to quickly be able to calculate the results of a game of [Marriage](<https://en.wikipedia.org/wiki/Marriage_(card_game)>). There is no backend required for this—it's purely frontend. I was also bored while recovering from Covid. Also, I used React Native expo to create and share this, because I don't want to pay the \$99 to share through TestFlight 🤷🏽. Download it through Expo Go [here](https://expo.dev/@sauhardarb/marriage-mal-calculator).
 
 ## Installation
 
